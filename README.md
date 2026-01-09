@@ -108,3 +108,5 @@ Future work could include expanding the labeled dataset, incorporating temporal 
 ## Repository Notes
 
 Full image datasets are excluded due to size and data governance constraints. This repository focuses on code, documentation, model artifacts, and reproducible workflows.
+
+**Trained model weights are not included in this repository due to file size constraints and data governance considerations, but are available upon request.
