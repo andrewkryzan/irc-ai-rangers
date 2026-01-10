@@ -109,4 +109,19 @@ Future work could include expanding the labeled dataset, incorporating temporal 
 
 Full image datasets are excluded due to size and data governance constraints. This repository focuses on code, documentation, model artifacts, and reproducible workflows.
 
-**Trained model weights are not included in this repository due to file size constraints and data governance considerations, but are available upon request.
+**Trained model weights are not included in this repository due to file size constraints and data governance considerations, but are available upon request.**
+
+## Repository Structure
+Each folder is intentionally scoped to separate documentation, executable analysis, and presentation artifacts for clarity and reproducibility.
+
+irc-ai-rangers/
+├── README.md
+├── LICENSE
+├── .gitignore
+├── docs/
+│   └── irc_labeling_and_training_workflow.pdf
+├── notebooks/
+│   └── export_yolov5_model_for_windows.ipynb
+└── visuals/
+    └── irc_ai_rangers_project_poster.png
+
